@@ -1,5 +1,4 @@
-# Competitive Intelligence Center - An Extension
-
+# Competitive Intelligence Center: The Blog
 > It is pardonable to be defeated, but not to be surprised.
 
 Hello,
